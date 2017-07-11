@@ -2,4 +2,4 @@
 
 This will contains All Java projects.
 
-Including some Projects and Inteview questions impemented in 
+Including some Projects and Inteview questions impemented in java
